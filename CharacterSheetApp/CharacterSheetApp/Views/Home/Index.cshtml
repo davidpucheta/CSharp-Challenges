@@ -1,0 +1,19 @@
+﻿@model Character
+
+<h2>Characters:</h2>
+
+<form asp-action="Create">
+	<div>
+		<input name="CharacterName" />
+		<input type="submit" value="Add Character" />
+	</div>
+</form>
+
+
+
+<div>
+	<ul>
+		<li>@Model.Name</li>
+	</ul>
+</div>
+

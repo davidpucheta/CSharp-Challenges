@@ -1,0 +1,5 @@
+/Users/davidreyespucheta/Varios Codigo/Retos/regexp/regexp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/davidreyespucheta/Varios Codigo/Retos/regexp/regexp/bin/Debug/regexp.exe.mdb
+/Users/davidreyespucheta/Varios Codigo/Retos/regexp/regexp/bin/Debug/regexp.exe
+/Users/davidreyespucheta/Varios Codigo/Retos/regexp/regexp/obj/x86/Debug/regexp.exe
+/Users/davidreyespucheta/Varios Codigo/Retos/regexp/regexp/obj/x86/Debug/regexp.exe.mdb

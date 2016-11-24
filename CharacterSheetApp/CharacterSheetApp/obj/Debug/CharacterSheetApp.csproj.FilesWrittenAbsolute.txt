@@ -1,0 +1,12 @@
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/CharacterSheetApp.dll.mdb
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/CharacterSheetApp.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/obj/Debug/CharacterSheetApp.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/obj/Debug/CharacterSheetApp.dll.mdb
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/Microsoft.Web.Infrastructure.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.Razor.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.Helpers.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.WebPages.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.WebPages.Deployment.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.WebPages.Razor.dll
+/Users/davidreyespucheta/Projects/CharacterSheetApp/CharacterSheetApp/bin/System.Web.Mvc.dll

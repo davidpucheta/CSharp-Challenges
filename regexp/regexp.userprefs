@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="regexp/regexp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="regexp/Program.cs">
+    <Files>
+      <File FileName="regexp/Program.cs" Line="22" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.regexp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
